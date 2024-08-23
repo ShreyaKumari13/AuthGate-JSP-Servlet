@@ -1,4 +1,4 @@
-# AuthGate : JSP & Servlet
+# SecurePass : JSP & Servlet
  SecureConnect: Secure Login and Registration with JSP, Servlet and JDBC
 
 - use this command to insert values in your tabe
